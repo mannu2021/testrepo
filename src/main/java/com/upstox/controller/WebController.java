@@ -22,7 +22,6 @@ public class WebController {
 		System.err.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
         System.err.println("Data: "+margin);
         
-        
         return "data";
     }
     
