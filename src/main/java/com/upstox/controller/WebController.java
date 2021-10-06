@@ -24,6 +24,7 @@ public class WebController {
         
         
         return "data";
+        
     }
     
 }
